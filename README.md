@@ -1,2 +1,2 @@
-# employee-manager
+# employeemanager-spring
  Employee Manager App
